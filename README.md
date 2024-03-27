@@ -1,5 +1,4 @@
-**![Ilustração]([caminho/para/sua/imagem.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.anhanguera.com%2Fdesenvolvimento-de-jogos-digitais%2F&psig=AOvVaw3ACXCilYqsXeJDWycJpAda&ust=1711635895130000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi1_93SlIUDFQAAAAAdAAAAABAE))**
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.gokursos.com%2Festudar-online%2Fdesenvolvimento-de-jogos-carreira-e-tendencias%2F&psig=AOvVaw3ACXCilYqsXeJDWycJpAda&ust=1711635895130000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi1_93SlIUDFQAAAAAdAAAAABAJ">
 
 
 
